@@ -1,0 +1,8 @@
+D:\work2\ClawerSpider\SpiderModel\bin\Release\netcoreapp3.1\SpiderModel.deps.json
+D:\work2\ClawerSpider\SpiderModel\bin\Release\netcoreapp3.1\SpiderModel.dll
+D:\work2\ClawerSpider\SpiderModel\bin\Release\netcoreapp3.1\SpiderModel.pdb
+D:\work2\ClawerSpider\SpiderModel\obj\Release\netcoreapp3.1\SpiderModel.AssemblyInfoInputs.cache
+D:\work2\ClawerSpider\SpiderModel\obj\Release\netcoreapp3.1\SpiderModel.AssemblyInfo.cs
+D:\work2\ClawerSpider\SpiderModel\obj\Release\netcoreapp3.1\SpiderModel.csproj.CoreCompileInputs.cache
+D:\work2\ClawerSpider\SpiderModel\obj\Release\netcoreapp3.1\SpiderModel.dll
+D:\work2\ClawerSpider\SpiderModel\obj\Release\netcoreapp3.1\SpiderModel.pdb
